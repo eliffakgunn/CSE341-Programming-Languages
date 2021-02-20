@@ -2,5 +2,5 @@
 
 Gebze Technical University Programming Language course's projects.  
 
-Hw1 developed in Common Lisp and Hw5 developed in Prolog. 
+Hw1 developed in Common Lisp and Hw4 developed in Prolog. 
 
